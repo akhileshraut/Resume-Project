@@ -16,6 +16,8 @@ AtliQ Mart is a retail giant with over 50 supermarkets in the southern region of
 
 # Promotion Type Analysis:
 
+![promo type](https://github.com/user-attachments/assets/73045c7e-d9a2-4cd6-be29-6402c9ced177)
+
 •	What are the top 2 promotion types that resulted in the highest Incremental Revenue?
 
 •	What are the bottom 2 promotion types in terms of their impact on Incremental Sold Units?
@@ -26,6 +28,8 @@ AtliQ Mart is a retail giant with over 50 supermarkets in the southern region of
 
 
 # Product and Category Analysis:
+
+![product   category](https://github.com/user-attachments/assets/1f705411-85d1-4917-a5c4-024bbf330a83)
 
 •	Which product categories saw the most significant lift in sales from the promotions?
 
