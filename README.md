@@ -5,6 +5,9 @@ AtliQ Mart is a retail giant with over 50 supermarkets in the southern region of
 
 # Store Performance Analysis:
 
+![store performance](https://github.com/user-attachments/assets/0d47efa1-5d09-4828-91d1-263b7f4d1723)
+
+
 •	Which are the top 10 stores in terms of Incremental Revenue (IR) generated from the promotions?
 
 •	Which are the bottom 10 stores when it comes to Incremental Sold Units (ISU) during the promotional period?
