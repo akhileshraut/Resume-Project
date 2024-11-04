@@ -3,7 +3,7 @@
 
 AtliQ Mart is a retail giant with over 50 supermarkets in the southern region of India. All their 50 stores ran a massive promotion during the Diwali 2023 and Sankranti 2024 (festive time in India) on their AtliQ branded products. Now the sales director wants to understand which promotions did well and which did not so that they can make informed decisions for their next promotional period.  
 
-Store Performance Analysis:
+# Store Performance Analysis:
 
 •	Which are the top 10 stores in terms of Incremental Revenue (IR) generated from the promotions?
 
@@ -11,7 +11,7 @@ Store Performance Analysis:
 
 •	How does the performance of stores vary by city? Are there any common characteristics among the top-performing stores that could be leveraged across other stores?
 
-Promotion Type Analysis:
+# Promotion Type Analysis:
 
 •	What are the top 2 promotion types that resulted in the highest Incremental Revenue?
 
@@ -22,7 +22,7 @@ Promotion Type Analysis:
 •	Which promotions strike the best balance between Incremental Sold Units and maintaining healthy margins?
 
 
-Product and Category Analysis:
+# Product and Category Analysis:
 
 •	Which product categories saw the most significant lift in sales from the promotions?
 
